@@ -4,6 +4,7 @@ int main(void)
 {
 
 using namespace std; 
+cont << Hello from collaborator!! >>;
 
     return 0;
 }
