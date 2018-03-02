@@ -3,7 +3,8 @@
 int main(void)
 {
 
-using namespace std; 
+using namespace std;
+cont << Hello from name!! >>; 
 
     return 0;
 }
